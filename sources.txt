@@ -1,0 +1,5 @@
+icons:Lordicon
+      fontawesome
+
+fonts:Google fonts
+      
